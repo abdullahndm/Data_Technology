@@ -1,2 +1,3 @@
-# Data_Technology
-Mostly about machine learning
+# Data Technology
+
+Compilation of college tasks of Data science
